@@ -1,4 +1,5 @@
 # todo-list-app
+A simple todo list app powered by Bootstrap-Vue.
 
 ## Project setup
 ```
@@ -27,3 +28,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Future Work
+ - [ ] Migrate to TypeScript, Stylus and Pug.
+ - [ ] Add backend interaction (axios, database e.g.).
+ - [ ] Add user management.
